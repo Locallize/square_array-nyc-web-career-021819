@@ -4,5 +4,5 @@ def square_array(array)
   array.each do |item|
   puts  meth = item * item
   end
-  
+  array
 end
